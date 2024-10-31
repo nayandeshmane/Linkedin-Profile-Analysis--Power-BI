@@ -12,7 +12,11 @@
     such as connection trends, messaging activity, and job market demands. By analyzing real-time data, this project empowers 
     users to enhance their LinkedIn profiles and networking strategies.
   </p>
+  <H3>Profile Analysis</H3>
+  <img src="Profile Analysis.png">
 
+  <h3>Job Opening Analysis</h3>
+  <img src="job Opening Analysis.png"> 
   <h2>Key Features</h2>
   <ul>
     <li>
